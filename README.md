@@ -4,7 +4,7 @@
 `TODO://` Using Terraform to bring up the Tomcat server in GCP
 
 ### Steps to execute
-- [ ] 1. Copy files to a project folder.
+- [ ] 1. Copy files to a project folder and navigate to the test folder.
 
 - [ ] 2. Install Terraform.
    - [ ] a. sudo apt-get install unzip
