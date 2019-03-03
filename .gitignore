@@ -1,0 +1,5 @@
+test/terraform.tfstate
+test/terraform.tfstate.backup
+test/credentials.json
+test/ubuntu
+test/ubuntu.pub
