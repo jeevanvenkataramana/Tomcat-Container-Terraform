@@ -44,7 +44,7 @@
 
 - [ ] 10. To login to the server
 
-   - [ ] ssh ubuntu@<ip address> -i ubuntu
+   - [ ] ssh ubuntu@"ip address" -i ubuntu
 
 - [ ] 11. To Destroy server
 
